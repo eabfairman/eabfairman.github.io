@@ -4,7 +4,7 @@ body {
 /* Location of the image */
 background-color: #000;
 
-.container .full-size {
+img {
   width: 100%;
   max-width: 1200px;
   height: auto;
