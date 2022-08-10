@@ -10,3 +10,7 @@ img {
     height: auto;
     margin: 0 auto;
   }
+
+.img-container {
+    margin: 50px;
+}
